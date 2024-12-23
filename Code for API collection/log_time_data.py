@@ -70,7 +70,7 @@ def log_stop_data(stop_reference, transport_mode):
                     line_ref1 = line_ref.replace('STIF:Line::', '').rstrip(':')
 
                     if line_ref1 in line_refs['ID_Line'].values:
-                        if departure_status in ['cancelled', 'delayed'] or (arrival_diff and arrival_diff > 5) or (departure_diff and departure_diff > 5):
+                        if departure_status in ['cancelled', 'delayed'] or (arrival_diff and arrival_diff >= 5) or (departure_diff and departure_diff >= 5):
                             train_list.append({
                                 'timestamp': timestamp,
                                 'stop_reference': stop_reference,
