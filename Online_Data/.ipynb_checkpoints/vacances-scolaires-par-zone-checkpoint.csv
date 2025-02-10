@@ -1,0 +1,367 @@
+﻿Date;Calendrier Zone A;Calendrier Zone B;Calendrier Zone C;Nom de la période;timestamp_unix
+2024-01-07;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1704585600
+2024-01-22;Hors Vacances;Hors Vacances;Hors Vacances;;1705881600
+2024-01-24;Hors Vacances;Hors Vacances;Hors Vacances;;1706054400
+2024-03-21;Hors Vacances;Hors Vacances;Hors Vacances;;1710979200
+2024-05-17;Hors Vacances;Hors Vacances;Hors Vacances;;1715904000
+2024-06-13;Hors Vacances;Hors Vacances;Hors Vacances;;1718236800
+2024-06-28;Hors Vacances;Hors Vacances;Hors Vacances;;1719532800
+2024-06-30;Hors Vacances;Hors Vacances;Hors Vacances;;1719705600
+2024-07-17;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721174400
+2024-07-21;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721520000
+2024-09-08;Hors Vacances;Hors Vacances;Hors Vacances;;1725753600
+2024-09-13;Hors Vacances;Hors Vacances;Hors Vacances;;1726185600
+2024-11-29;Hors Vacances;Hors Vacances;Hors Vacances;;1732838400
+2024-01-08;Hors Vacances;Hors Vacances;Hors Vacances;;1704672000
+2024-01-16;Hors Vacances;Hors Vacances;Hors Vacances;;1705363200
+2024-01-23;Hors Vacances;Hors Vacances;Hors Vacances;;1705968000
+2024-03-03;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709424000
+2024-03-05;Hors Vacances;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709596800
+2024-04-12;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1712880000
+2024-04-21;Vacances de printemps;Vacances de printemps;Vacances de printemps;Vacances de printemps;1713657600
+2024-05-10;Hors Vacances;Hors Vacances;Hors Vacances;;1715299200
+2024-06-26;Hors Vacances;Hors Vacances;Hors Vacances;;1719360000
+2024-07-11;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720656000
+2024-08-24;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724457600
+2024-08-27;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724716800
+2024-10-28;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1730073600
+2024-12-26;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1735171200
+2024-01-06;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1704499200
+2024-01-12;Hors Vacances;Hors Vacances;Hors Vacances;;1705017600
+2024-02-08;Hors Vacances;Hors Vacances;Hors Vacances;;1707350400
+2024-02-11;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1707609600
+2024-02-27;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1708992000
+2024-03-25;Hors Vacances;Hors Vacances;Hors Vacances;;1711324800
+2024-04-16;Vacances de printemps;Hors Vacances;Vacances de printemps;Vacances de printemps;1713225600
+2024-06-22;Hors Vacances;Hors Vacances;Hors Vacances;;1719014400
+2024-08-16;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723766400
+2024-08-23;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724371200
+2024-09-18;Hors Vacances;Hors Vacances;Hors Vacances;;1726617600
+2024-10-07;Hors Vacances;Hors Vacances;Hors Vacances;;1728259200
+2024-11-14;Hors Vacances;Hors Vacances;Hors Vacances;;1731542400
+2024-11-23;Hors Vacances;Hors Vacances;Hors Vacances;;1732320000
+2024-01-13;Hors Vacances;Hors Vacances;Hors Vacances;;1705104000
+2024-02-10;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1707523200
+2024-03-18;Hors Vacances;Hors Vacances;Hors Vacances;;1710720000
+2024-04-09;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1712620800
+2024-04-26;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1714089600
+2024-05-06;Hors Vacances;Hors Vacances;Hors Vacances;;1714953600
+2024-05-12;Hors Vacances;Hors Vacances;Hors Vacances;;1715472000
+2024-05-18;Hors Vacances;Hors Vacances;Hors Vacances;;1715990400
+2024-06-14;Hors Vacances;Hors Vacances;Hors Vacances;;1718323200
+2024-06-23;Hors Vacances;Hors Vacances;Hors Vacances;;1719100800
+2024-07-10;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720569600
+2024-08-05;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722816000
+2024-08-07;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722988800
+2024-08-09;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723161600
+2024-08-13;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723507200
+2024-08-18;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723939200
+2024-09-06;Hors Vacances;Hors Vacances;Hors Vacances;;1725580800
+2024-10-24;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729728000
+2024-12-28;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1735344000
+2024-12-29;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1735430400
+2024-01-01;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1704067200
+2024-01-17;Hors Vacances;Hors Vacances;Hors Vacances;;1705449600
+2024-01-29;Hors Vacances;Hors Vacances;Hors Vacances;;1706486400
+2024-03-14;Hors Vacances;Hors Vacances;Hors Vacances;;1710374400
+2024-03-30;Hors Vacances;Hors Vacances;Hors Vacances;;1711756800
+2024-04-03;Hors Vacances;Hors Vacances;Hors Vacances;;1712102400
+2024-05-15;Hors Vacances;Hors Vacances;Hors Vacances;;1715731200
+2024-06-18;Hors Vacances;Hors Vacances;Hors Vacances;;1718668800
+2024-07-07;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720310400
+2024-08-20;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724112000
+2024-08-26;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724630400
+2024-08-31;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1725062400
+2024-10-11;Hors Vacances;Hors Vacances;Hors Vacances;;1728604800
+2024-10-13;Hors Vacances;Hors Vacances;Hors Vacances;;1728777600
+2024-10-29;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1730160000
+2024-12-05;Hors Vacances;Hors Vacances;Hors Vacances;;1733356800
+2024-12-08;Hors Vacances;Hors Vacances;Hors Vacances;;1733616000
+2024-04-13;Vacances de printemps;Hors Vacances;Vacances de printemps;Vacances de printemps;1712966400
+2024-06-11;Hors Vacances;Hors Vacances;Hors Vacances;;1718064000
+2024-06-27;Hors Vacances;Hors Vacances;Hors Vacances;;1719446400
+2024-07-09;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720483200
+2024-07-12;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720742400
+2024-09-02;Hors Vacances;Hors Vacances;Hors Vacances;;1725235200
+2024-10-03;Hors Vacances;Hors Vacances;Hors Vacances;;1727913600
+2024-10-09;Hors Vacances;Hors Vacances;Hors Vacances;;1728432000
+2024-11-03;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1730592000
+2024-11-27;Hors Vacances;Hors Vacances;Hors Vacances;;1732665600
+2024-11-30;Hors Vacances;Hors Vacances;Hors Vacances;;1732924800
+2024-12-04;Hors Vacances;Hors Vacances;Hors Vacances;;1733270400
+2024-12-16;Hors Vacances;Hors Vacances;Hors Vacances;;1734307200
+2024-12-17;Hors Vacances;Hors Vacances;Hors Vacances;;1734393600
+2024-12-18;Hors Vacances;Hors Vacances;Hors Vacances;;1734480000
+2024-12-27;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1735257600
+2024-06-19;Hors Vacances;Hors Vacances;Hors Vacances;;1718755200
+2024-08-15;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723680000
+2024-10-19;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729296000
+2024-11-01;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1730419200
+2024-02-05;Hors Vacances;Hors Vacances;Hors Vacances;;1707091200
+2024-02-13;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1707782400
+2024-03-13;Hors Vacances;Hors Vacances;Hors Vacances;;1710288000
+2024-01-02;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1704153600
+2024-02-21;Vacances d'hiver;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708473600
+2024-03-31;Hors Vacances;Hors Vacances;Hors Vacances;;1711843200
+2024-04-15;Vacances de printemps;Hors Vacances;Vacances de printemps;Vacances de printemps;1713139200
+2024-04-17;Vacances de printemps;Hors Vacances;Vacances de printemps;Vacances de printemps;1713312000
+2024-05-22;Hors Vacances;Hors Vacances;Hors Vacances;;1716336000
+2024-05-25;Hors Vacances;Hors Vacances;Hors Vacances;;1716595200
+2024-06-21;Hors Vacances;Hors Vacances;Hors Vacances;;1718928000
+2024-07-04;Hors Vacances;Hors Vacances;Hors Vacances;;1720051200
+2024-07-08;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720396800
+2024-10-10;Hors Vacances;Hors Vacances;Hors Vacances;;1728518400
+2024-11-06;Hors Vacances;Hors Vacances;Hors Vacances;;1730851200
+2024-11-11;Hors Vacances;Hors Vacances;Hors Vacances;;1731283200
+2024-12-30;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1735516800
+2024-02-14;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1707868800
+2024-03-02;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709337600
+2024-03-19;Hors Vacances;Hors Vacances;Hors Vacances;;1710806400
+2024-03-20;Hors Vacances;Hors Vacances;Hors Vacances;;1710892800
+2024-04-23;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1713830400
+2024-04-24;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1713916800
+2024-05-23;Hors Vacances;Hors Vacances;Hors Vacances;;1716422400
+2024-07-29;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722211200
+2024-08-04;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722729600
+2024-08-19;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724025600
+2024-09-10;Hors Vacances;Hors Vacances;Hors Vacances;;1725926400
+2024-09-12;Hors Vacances;Hors Vacances;Hors Vacances;;1726099200
+2024-09-16;Hors Vacances;Hors Vacances;Hors Vacances;;1726444800
+2024-09-23;Hors Vacances;Hors Vacances;Hors Vacances;;1727049600
+2024-09-27;Hors Vacances;Hors Vacances;Hors Vacances;;1727395200
+2024-12-09;Hors Vacances;Hors Vacances;Hors Vacances;;1733702400
+2024-12-13;Hors Vacances;Hors Vacances;Hors Vacances;;1734048000
+2024-01-28;Hors Vacances;Hors Vacances;Hors Vacances;;1706400000
+2024-02-15;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1707955200
+2024-03-04;Hors Vacances;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709510400
+2024-05-08;Hors Vacances;Hors Vacances;Hors Vacances;;1715126400
+2024-05-11;Hors Vacances;Hors Vacances;Hors Vacances;;1715385600
+2024-07-18;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721260800
+2024-08-25;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724544000
+2024-09-19;Hors Vacances;Hors Vacances;Hors Vacances;;1726704000
+2024-10-15;Hors Vacances;Hors Vacances;Hors Vacances;;1728950400
+2024-11-07;Hors Vacances;Hors Vacances;Hors Vacances;;1730937600
+2024-12-31;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1735603200
+2024-01-03;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1704240000
+2024-02-25;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1708819200
+2024-02-26;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1708905600
+2024-04-27;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1714176000
+2024-05-05;Hors Vacances;Vacances de printemps;Hors Vacances;Vacances de printemps;1714867200
+2024-06-07;Hors Vacances;Hors Vacances;Hors Vacances;;1717718400
+2024-07-24;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721779200
+2024-10-12;Hors Vacances;Hors Vacances;Hors Vacances;;1728691200
+2024-10-25;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729814400
+2024-11-04;Hors Vacances;Hors Vacances;Hors Vacances;;1730678400
+2024-11-15;Hors Vacances;Hors Vacances;Hors Vacances;;1731628800
+2024-11-24;Hors Vacances;Hors Vacances;Hors Vacances;;1732406400
+2024-01-11;Hors Vacances;Hors Vacances;Hors Vacances;;1704931200
+2024-02-12;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1707696000
+2024-03-10;Hors Vacances;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1710028800
+2024-03-26;Hors Vacances;Hors Vacances;Hors Vacances;;1711411200
+2024-04-04;Hors Vacances;Hors Vacances;Hors Vacances;;1712188800
+2024-05-21;Hors Vacances;Hors Vacances;Hors Vacances;;1716249600
+2024-05-24;Hors Vacances;Hors Vacances;Hors Vacances;;1716508800
+2024-05-26;Hors Vacances;Hors Vacances;Hors Vacances;;1716681600
+2024-06-02;Hors Vacances;Hors Vacances;Hors Vacances;;1717286400
+2024-10-21;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729468800
+2024-11-08;Hors Vacances;Hors Vacances;Hors Vacances;;1731024000
+2024-11-22;Hors Vacances;Hors Vacances;Hors Vacances;;1732233600
+2024-04-19;Vacances de printemps;Hors Vacances;Vacances de printemps;Vacances de printemps;1713484800
+2024-05-29;Hors Vacances;Hors Vacances;Hors Vacances;;1716940800
+2024-06-17;Hors Vacances;Hors Vacances;Hors Vacances;;1718582400
+2024-07-03;Hors Vacances;Hors Vacances;Hors Vacances;;1719964800
+2024-07-16;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721088000
+2024-08-17;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723852800
+2024-09-01;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1725148800
+2024-09-05;Hors Vacances;Hors Vacances;Hors Vacances;;1725494400
+2024-09-28;Hors Vacances;Hors Vacances;Hors Vacances;;1727481600
+2024-09-29;Hors Vacances;Hors Vacances;Hors Vacances;;1727568000
+2024-10-17;Hors Vacances;Hors Vacances;Hors Vacances;;1729123200
+2024-12-03;Hors Vacances;Hors Vacances;Hors Vacances;;1733184000
+2024-01-21;Hors Vacances;Hors Vacances;Hors Vacances;;1705795200
+2024-01-27;Hors Vacances;Hors Vacances;Hors Vacances;;1706313600
+2024-02-09;Hors Vacances;Hors Vacances;Hors Vacances;;1707436800
+2024-02-28;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709078400
+2024-02-29;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709164800
+2024-03-15;Hors Vacances;Hors Vacances;Hors Vacances;;1710460800
+2024-03-28;Hors Vacances;Hors Vacances;Hors Vacances;;1711584000
+2024-08-03;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722643200
+2024-09-11;Hors Vacances;Hors Vacances;Hors Vacances;;1726012800
+2024-09-25;Hors Vacances;Hors Vacances;Hors Vacances;;1727222400
+2024-10-20;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729382400
+2024-11-17;Hors Vacances;Hors Vacances;Hors Vacances;;1731801600
+2024-12-21;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1734739200
+2024-01-25;Hors Vacances;Hors Vacances;Hors Vacances;;1706140800
+2024-03-06;Hors Vacances;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709683200
+2024-05-07;Hors Vacances;Hors Vacances;Hors Vacances;;1715040000
+2024-05-30;Hors Vacances;Hors Vacances;Hors Vacances;;1717027200
+2024-06-12;Hors Vacances;Hors Vacances;Hors Vacances;;1718150400
+2024-06-20;Hors Vacances;Hors Vacances;Hors Vacances;;1718841600
+2024-07-14;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720915200
+2024-09-30;Hors Vacances;Hors Vacances;Hors Vacances;;1727654400
+2024-10-05;Hors Vacances;Hors Vacances;Hors Vacances;;1728086400
+2024-11-05;Hors Vacances;Hors Vacances;Hors Vacances;;1730764800
+2024-11-26;Hors Vacances;Hors Vacances;Hors Vacances;;1732579200
+2024-02-17;Vacances d'hiver;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708128000
+2024-03-08;Hors Vacances;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709856000
+2024-04-07;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1712448000
+2024-06-05;Hors Vacances;Hors Vacances;Hors Vacances;;1717545600
+2024-07-05;Hors Vacances;Hors Vacances;Hors Vacances;;1720137600
+2024-07-25;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721865600
+2024-08-11;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723334400
+2024-09-14;Hors Vacances;Hors Vacances;Hors Vacances;;1726272000
+2024-09-21;Hors Vacances;Hors Vacances;Hors Vacances;;1726876800
+2024-10-01;Hors Vacances;Hors Vacances;Hors Vacances;;1727740800
+2024-11-19;Hors Vacances;Hors Vacances;Hors Vacances;;1731974400
+2024-12-06;Hors Vacances;Hors Vacances;Hors Vacances;;1733443200
+2024-04-08;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1712534400
+2024-05-03;Hors Vacances;Vacances de printemps;Hors Vacances;Vacances de printemps;1714694400
+2024-05-04;Hors Vacances;Vacances de printemps;Hors Vacances;Vacances de printemps;1714780800
+2024-05-20;Hors Vacances;Hors Vacances;Hors Vacances;;1716163200
+2024-06-24;Hors Vacances;Hors Vacances;Hors Vacances;;1719187200
+2024-06-25;Hors Vacances;Hors Vacances;Hors Vacances;;1719273600
+2024-07-30;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722297600
+2024-08-21;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724198400
+2024-12-24;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1734998400
+2024-01-14;Hors Vacances;Hors Vacances;Hors Vacances;;1705190400
+2024-01-20;Hors Vacances;Hors Vacances;Hors Vacances;;1705708800
+2024-02-19;Vacances d'hiver;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708300800
+2024-03-12;Hors Vacances;Hors Vacances;Hors Vacances;;1710201600
+2024-03-17;Hors Vacances;Hors Vacances;Hors Vacances;;1710633600
+2024-01-05;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1704412800
+2024-02-06;Hors Vacances;Hors Vacances;Hors Vacances;;1707177600
+2024-03-27;Hors Vacances;Hors Vacances;Hors Vacances;;1711497600
+2024-04-02;Hors Vacances;Hors Vacances;Hors Vacances;;1712016000
+2024-05-31;Hors Vacances;Hors Vacances;Hors Vacances;;1717113600
+2024-09-17;Hors Vacances;Hors Vacances;Hors Vacances;;1726531200
+2024-10-22;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729555200
+2024-12-11;Hors Vacances;Hors Vacances;Hors Vacances;;1733875200
+2024-12-12;Hors Vacances;Hors Vacances;Hors Vacances;;1733961600
+2024-01-15;Hors Vacances;Hors Vacances;Hors Vacances;;1705276800
+2024-01-31;Hors Vacances;Hors Vacances;Hors Vacances;;1706659200
+2024-02-04;Hors Vacances;Hors Vacances;Hors Vacances;;1707004800
+2024-02-20;Vacances d'hiver;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708387200
+2024-03-09;Hors Vacances;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709942400
+2024-03-11;Hors Vacances;Hors Vacances;Hors Vacances;;1710115200
+2024-04-01;Hors Vacances;Hors Vacances;Hors Vacances;;1711929600
+2024-04-05;Hors Vacances;Hors Vacances;Hors Vacances;;1712275200
+2024-05-27;Hors Vacances;Hors Vacances;Hors Vacances;;1716768000
+2024-06-08;Hors Vacances;Hors Vacances;Hors Vacances;;1717804800
+2024-07-06;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720224000
+2024-08-12;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723420800
+2024-10-16;Hors Vacances;Hors Vacances;Hors Vacances;;1729036800
+2024-12-19;Hors Vacances;Hors Vacances;Hors Vacances;;1734566400
+2024-01-04;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1704326400
+2024-03-16;Hors Vacances;Hors Vacances;Hors Vacances;;1710547200
+2024-04-10;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1712707200
+2024-07-26;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721952000
+2024-10-23;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729641600
+2024-01-30;Hors Vacances;Hors Vacances;Hors Vacances;;1706572800
+2024-02-01;Hors Vacances;Hors Vacances;Hors Vacances;;1706745600
+2024-02-16;Hors Vacances;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708041600
+2024-04-11;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1712793600
+2024-04-20;Vacances de printemps;Vacances de printemps;Vacances de printemps;Vacances de printemps;1713571200
+2024-05-09;Hors Vacances;Hors Vacances;Hors Vacances;;1715212800
+2024-07-02;Hors Vacances;Hors Vacances;Hors Vacances;;1719878400
+2024-08-29;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724889600
+2024-09-03;Hors Vacances;Hors Vacances;Hors Vacances;;1725321600
+2024-10-14;Hors Vacances;Hors Vacances;Hors Vacances;;1728864000
+2024-03-07;Hors Vacances;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709769600
+2024-03-22;Hors Vacances;Hors Vacances;Hors Vacances;;1711065600
+2024-04-14;Vacances de printemps;Hors Vacances;Vacances de printemps;Vacances de printemps;1713052800
+2024-05-19;Hors Vacances;Hors Vacances;Hors Vacances;;1716076800
+2024-06-01;Hors Vacances;Hors Vacances;Hors Vacances;;1717200000
+2024-06-03;Hors Vacances;Hors Vacances;Hors Vacances;;1717372800
+2024-07-15;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721001600
+2024-08-22;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724284800
+2024-08-30;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724976000
+2024-09-09;Hors Vacances;Hors Vacances;Hors Vacances;;1725840000
+2024-09-26;Hors Vacances;Hors Vacances;Hors Vacances;;1727308800
+2024-10-04;Hors Vacances;Hors Vacances;Hors Vacances;;1728000000
+2024-10-08;Hors Vacances;Hors Vacances;Hors Vacances;;1728345600
+2024-11-13;Hors Vacances;Hors Vacances;Hors Vacances;;1731456000
+2024-12-14;Hors Vacances;Hors Vacances;Hors Vacances;;1734134400
+2024-12-22;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1734825600
+2024-04-29;Hors Vacances;Vacances de printemps;Hors Vacances;Vacances de printemps;1714348800
+2024-05-13;Hors Vacances;Hors Vacances;Hors Vacances;;1715558400
+2024-06-10;Hors Vacances;Hors Vacances;Hors Vacances;;1717977600
+2024-06-15;Hors Vacances;Hors Vacances;Hors Vacances;;1718409600
+2024-07-13;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1720828800
+2024-07-19;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721347200
+2024-07-28;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722124800
+2024-08-01;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722470400
+2024-08-08;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723075200
+2024-08-10;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723248000
+2024-09-22;Hors Vacances;Hors Vacances;Hors Vacances;;1726963200
+2024-10-06;Hors Vacances;Hors Vacances;Hors Vacances;;1728172800
+2024-11-02;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1730505600
+2024-11-09;Hors Vacances;Hors Vacances;Hors Vacances;;1731110400
+2024-11-25;Hors Vacances;Hors Vacances;Hors Vacances;;1732492800
+2024-02-02;Hors Vacances;Hors Vacances;Hors Vacances;;1706832000
+2024-02-03;Hors Vacances;Hors Vacances;Hors Vacances;;1706918400
+2024-02-22;Vacances d'hiver;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708560000
+2024-02-24;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;Vacances d'hiver;1708732800
+2024-04-06;Hors Vacances;Hors Vacances;Vacances de printemps;Vacances de printemps;1712361600
+2024-04-30;Hors Vacances;Vacances de printemps;Hors Vacances;Vacances de printemps;1714435200
+2024-05-02;Hors Vacances;Vacances de printemps;Hors Vacances;Vacances de printemps;1714608000
+2024-05-14;Hors Vacances;Hors Vacances;Hors Vacances;;1715644800
+2024-05-16;Hors Vacances;Hors Vacances;Hors Vacances;;1715817600
+2024-05-28;Hors Vacances;Hors Vacances;Hors Vacances;;1716854400
+2024-07-31;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722384000
+2024-09-04;Hors Vacances;Hors Vacances;Hors Vacances;;1725408000
+2024-09-07;Hors Vacances;Hors Vacances;Hors Vacances;;1725667200
+2024-10-30;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1730246400
+2024-11-16;Hors Vacances;Hors Vacances;Hors Vacances;;1731715200
+2024-12-20;Hors Vacances;Hors Vacances;Hors Vacances;;1734652800
+2024-01-09;Hors Vacances;Hors Vacances;Hors Vacances;;1704758400
+2024-04-25;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1714003200
+2024-06-04;Hors Vacances;Hors Vacances;Hors Vacances;;1717459200
+2024-06-29;Hors Vacances;Hors Vacances;Hors Vacances;;1719619200
+2024-07-01;Hors Vacances;Hors Vacances;Hors Vacances;;1719792000
+2024-10-26;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729900800
+2024-11-18;Hors Vacances;Hors Vacances;Hors Vacances;;1731888000
+2024-12-02;Hors Vacances;Hors Vacances;Hors Vacances;;1733097600
+2024-12-07;Hors Vacances;Hors Vacances;Hors Vacances;;1733529600
+2024-12-23;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1734912000
+2024-01-19;Hors Vacances;Hors Vacances;Hors Vacances;;1705622400
+2024-02-18;Vacances d'hiver;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708214400
+2024-02-23;Vacances d'hiver;Hors Vacances;Vacances d'hiver;Vacances d'hiver;1708646400
+2024-03-01;Vacances d'hiver;Vacances d'hiver;Hors Vacances;Vacances d'hiver;1709251200
+2024-05-01;Hors Vacances;Vacances de printemps;Hors Vacances;Vacances de printemps;1714521600
+2024-06-06;Hors Vacances;Hors Vacances;Hors Vacances;;1717632000
+2024-06-09;Hors Vacances;Hors Vacances;Hors Vacances;;1717891200
+2024-07-27;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722038400
+2024-08-06;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722902400
+2024-11-21;Hors Vacances;Hors Vacances;Hors Vacances;;1732147200
+2024-11-28;Hors Vacances;Hors Vacances;Hors Vacances;;1732752000
+2024-12-10;Hors Vacances;Hors Vacances;Hors Vacances;;1733788800
+2024-01-10;Hors Vacances;Hors Vacances;Hors Vacances;;1704844800
+2024-01-18;Hors Vacances;Hors Vacances;Hors Vacances;;1705536000
+2024-01-26;Hors Vacances;Hors Vacances;Hors Vacances;;1706227200
+2024-02-07;Hors Vacances;Hors Vacances;Hors Vacances;;1707264000
+2024-03-24;Hors Vacances;Hors Vacances;Hors Vacances;;1711238400
+2024-03-29;Hors Vacances;Hors Vacances;Hors Vacances;;1711670400
+2024-04-18;Vacances de printemps;Hors Vacances;Vacances de printemps;Vacances de printemps;1713398400
+2024-06-16;Hors Vacances;Hors Vacances;Hors Vacances;;1718496000
+2024-07-20;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721433600
+2024-07-23;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721692800
+2024-10-02;Hors Vacances;Hors Vacances;Hors Vacances;;1727827200
+2024-10-18;Hors Vacances;Hors Vacances;Hors Vacances;;1729209600
+2024-10-31;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1730332800
+2024-11-10;Hors Vacances;Hors Vacances;Hors Vacances;;1731196800
+2024-12-25;Vacances de Noël;Vacances de Noël;Vacances de Noël;Vacances de Noël;1735084800
+2024-03-23;Hors Vacances;Hors Vacances;Hors Vacances;;1711152000
+2024-04-22;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1713744000
+2024-04-28;Vacances de printemps;Vacances de printemps;Hors Vacances;Vacances de printemps;1714262400
+2024-07-22;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1721606400
+2024-08-02;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1722556800
+2024-08-14;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1723593600
+2024-08-28;Vacances d'été;Vacances d'été;Vacances d'été;Vacances d'été;1724803200
+2024-09-15;Hors Vacances;Hors Vacances;Hors Vacances;;1726358400
+2024-09-20;Hors Vacances;Hors Vacances;Hors Vacances;;1726790400
+2024-09-24;Hors Vacances;Hors Vacances;Hors Vacances;;1727136000
+2024-10-27;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;Vacances de la Toussaint;1729987200
+2024-11-12;Hors Vacances;Hors Vacances;Hors Vacances;;1731369600
+2024-11-20;Hors Vacances;Hors Vacances;Hors Vacances;;1732060800
+2024-12-01;Hors Vacances;Hors Vacances;Hors Vacances;;1733011200
+2024-12-15;Hors Vacances;Hors Vacances;Hors Vacances;;1734220800
